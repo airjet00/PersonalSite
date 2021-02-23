@@ -1,5 +1,32 @@
+body{
+  background-image: url(/Users/erikkell/SD/HTML/PersonalSite/html/images/bryan-goff-we1ky8_ZTHg-unsplash.jpeg);
+  background-size: cover;
+  background-origin: padding-box;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  background-color: black;
+  margin: 10px;
+  width: 100%;
+}
+
+[alt="Stages of Solar Eclipse"]{
+  background-size: cover;
+  background-origin: padding-box;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  margin: 10px;
+  width: 100%;
+}
+
 .mainTitle{
   font-family: fantasy;
   color: red;
-  background-color: black;
+  text-align: center;
+}
+
+.blogText{
+  color: silver;
+  margin: 100px;
 }
